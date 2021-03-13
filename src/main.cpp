@@ -1,5 +1,6 @@
 #include <iostream>
 #include "heartrate.h"
+#include <conio.h>
 using namespace std;
 
 int main() {
